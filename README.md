@@ -1,16 +1,32 @@
-# raidereats_admin_website_portal
+# Project Overview
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a mobile application built with Flutter framework, Dart programming language, and Firebase as the database. The application, Raider One, integrates two primary applications: Raider Eats and Raider Ride.
 
-A few resources to get you started if this is your first Flutter project:
+The Admin page of the Raider Eats application is used to actively monitor and manage users, riders, and sellers who have registered with the application through Texas Tech University. Admins can view the earnings that sellers have made, and they have the ability to block sellers or drivers if needed. 
+ Admins can also view the earnings of riders who are actively delivering food, ensuring that everyone is being fairly compensated for their work. The Admin page serves as a crucial tool for maintaining the integrity of the Raider Eats platform and ensuring that all parties involved are following the rules and regulations set forth by the university.
+# Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Edwin Perez
+Seth Dornak
+Neela Anand
+Ian Carpenter
+Jigar Patel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Required Environments
+Dart SDK
+Flutter SDK
+Android Studio
+
+
+# Installing Required Packages (CMD)
+flutter packages get
+flutter packages upgrade
+
+# Resources
+Flutter Docs
+Firebase Docs
+
+# Contribution
+Please read the contribution guide to learn more.
